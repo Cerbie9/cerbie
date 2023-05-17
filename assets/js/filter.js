@@ -2,7 +2,7 @@ function filterTable(category) {
     let input = document.getElementById(category + "Input")
     let table = document.getElementById(category);
 
-    if (table === null) {
+    if (table === ) {
         return;
     }
 
