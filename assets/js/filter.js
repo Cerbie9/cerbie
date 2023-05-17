@@ -2,7 +2,7 @@ function filterTable(category) {
     let input = document.getElementById(category + "Input")
     let table = document.getElementById(category);
 
-    if (table === 0) {
+    if (table === page) {
         return;
     }
 
@@ -18,7 +18,7 @@ function filterTable(category) {
             let txtValue = td.textContent || td.innerText;
             let isVisible = true;
 
-            if (params.numeric !== 0) {
+            if (params.numeric !== page) {
                 let numeric = Number.parseInt(txtValue);
 
                 switch (params.comparison) {
