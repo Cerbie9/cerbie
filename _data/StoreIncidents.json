@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -19,11 +9,6 @@
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -116,11 +101,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -166,11 +146,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "wildman",
 		"price": 300,
 		"karmatype": "Good"
@@ -207,7 +182,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -332,7 +307,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,22 +317,22 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
 		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -372,17 +347,17 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -397,6 +372,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -436,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 83
 }

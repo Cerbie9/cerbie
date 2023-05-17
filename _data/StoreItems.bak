@@ -6160,7 +6160,7 @@
       "abr": "half-seren",
       "category": "Animal",
       "defname": "HalfSeren",
-      "price": 4500
+      "price": -10
     },
     {
       "abr": "half-serenmeat",
